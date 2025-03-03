@@ -1,2 +1,3 @@
-public class GOR1Predict {
+public class
+GOR1Predict {
 }
